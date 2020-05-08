@@ -47,6 +47,7 @@ http://purl.obolibrary.org/obo/upheno/patterns-dev/abnormalWeightOfAnatomicalEnt
 http://purl.obolibrary.org/obo/upheno/patterns-dev/atreticAnatomicalEntity.yaml
 http://purl.obolibrary.org/obo/upheno/patterns-dev/atrophiedAnatomicalEntity.yaml
 http://purl.obolibrary.org/obo/upheno/patterns-dev/calcifiedAnatomicalEntity.yaml
+http://purl.obolibrary.org/obo/upheno/patterns-dev/fracturedAnatomicalEntity.yaml
 http://purl.obolibrary.org/obo/upheno/patterns-dev/dysplasticAnatomicalEntity.yaml
 http://purl.obolibrary.org/obo/upheno/patterns/abnormalAnatomicalEntity.yaml
 http://purl.obolibrary.org/obo/upheno/patterns/abnormalLevelOfChemicalEntity.yaml
